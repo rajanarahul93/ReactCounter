@@ -9,9 +9,6 @@ function App() {
 const addValue = ()=>{
     // eslint-disable-next-line no-const-assign
     setCounter(counter+1)
-    setCounter(counter+1)
-    setCounter(counter+1)
-    setCounter(counter+1)
 
 }
 
